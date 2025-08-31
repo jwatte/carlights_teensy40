@@ -1,0 +1,9 @@
+2.3" wide x 2.2" tall M3
+1/8" below
+1" above
+
+2.7/2.6 pcb size
+
+ USB bottom centered 1" along the bottom
+top-left: 12V input
+center-right: LEDs output

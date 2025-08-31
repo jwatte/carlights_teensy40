@@ -1,0 +1,18 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"C1, C2, C4, C5",4,10uF,CP_Radial_D6.3mm_P2.50mm,,,,tht,Polarized capacitor
+C3,1,1uF,C_Radial_D5.0mm_H5.0mm_P2.00mm,,,,tht,Unpolarized capacitor
+J1,1,J_CAN,PinHeader_1x05_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J2,1,12V_IN,TerminalBlock_bornier-2_P5.08mm,,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J3,1,LED_OUT_LR,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J4,1,J_UART,PinHeader_1x05_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J5,1,J_UART2,PinHeader_1x05_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J6,1,LED_OUT_XY,PinHeader_1x06_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+Q2,1,BS170,TO-92_Inline,,,,tht,"0.5A Id, 60V Vds, N-Channel MOSFET, TO-92"
+Q3,1,IRF9540N / SUP75-P03,TO-220-3_Vertical,,,,tht,"-23A Id, -100V Vds, 117mOhm Rds, P-Channel HEXFET Power MOSFET, TO-220"
+"R1, R5, R6",3,100k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"Resistor, US symbol"
+R2,1,4k7,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"Resistor, US symbol"
+R4,1,22k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"Resistor, US symbol"
+"R7, R8",2,100,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"Resistor, US symbol"
+U1,1,Teensy4.0,Teensy40,,,,tht,
+"U2, U4",2,78SR05,TO-220-3_Vertical,,,,tht,"Murata Positive 1A 35V Switching Regulator, Fixed Output 5V, TO-220"
+U3,1,74125,CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket,,,,tht,
